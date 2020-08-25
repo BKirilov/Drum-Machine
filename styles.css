@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(images/cool-background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: 100vh;
+}
+
+.container-fluid {
+  width: 100vw;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.pads {
+  padding: 25px;
+}
+
+.btn {
+  font-size: 30px;
+}
+
+footer {
+  color: white;
+  font-weight: 500;
+}
