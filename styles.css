@@ -18,12 +18,25 @@ body {
   padding: 0;
 }
 
+.container-fluid p {
+  font-weight: 500;
+  font-style: italic;
+}
+
+#display {
+  margin: 15% 25% auto 25%;
+}
+
 .pads {
   padding: 25px;
+  padding-top: 5%;
 }
 
 .btn {
   font-size: 30px;
+  color: white;
+  background-color: black;
+  border-radius: 0;
 }
 
 footer {
